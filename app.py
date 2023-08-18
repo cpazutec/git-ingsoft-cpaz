@@ -6,4 +6,3 @@ app = Flask(__name__)
 @app.route('/')
 def hello():
     return '<h1>Hello, World Branch Feature 3</h1>'
-
